@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ampersandmarkets.world/sitemap.xml
